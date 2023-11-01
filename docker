@@ -1,0 +1,18 @@
+docker version
+docker info
+docker images
+docker image ls
+docker pull python:3.9.18-slim-bullseye
+docker inspect
+docker rmi
+docker ps
+docker ps -a
+docker container create
+docker start
+docker stop
+docker pause
+docker top
+docker stats
+docker attach
+docker rm
+docker history
